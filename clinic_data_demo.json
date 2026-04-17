@@ -1,0 +1,80 @@
+{
+  "special_staff": {
+    "staff_w": "Staff_W",
+    "staff_l": "Staff_L"
+  },
+  "branches": {
+    "northshore": {
+      "display_name_chi": "北岸Albany",
+      "display_name_eng": "Albany",
+      "phone": "09*********",
+      "has_weekend_parking": true,
+      "parking_instruction_chi": "\n周末可停在停车场后排的任何车位。",
+      "parking_instruction_eng": "\nWeekend parking: any space at the back of the car park.",
+      "custom_greeting_chi": "收到烦请确认。谢谢！\n\n您好！",
+      "custom_blessing_chi": "",
+      "practitioners": [
+        {"name": "Staff_A", "treatment_type": "chiropractic"},
+        {"name": "Staff_L1(Albany)", "treatment_type": "acupuncture"},
+        {"name": "Staff_G", "treatment_type": "acupuncture"},
+        {"name": "Staff_Hr", "treatment_type": "acupuncture"},
+        {"name": "Staff_L2", "treatment_type": "acupuncture"},
+        {"name": "Staff_W(Albany)", "treatment_type": "massage"},
+        {"name": "Staff_N", "treatment_type": "physio"},
+        {"name": "Staff_Y", "treatment_type": "acupuncture"},
+        {"name": "Staff_L(Albany)", "treatment_type": "moxa"},
+        {"name": "Staff_X(Albany)", "treatment_type": "acupuncture"}
+      ]
+    },
+    "newlynn": {
+      "display_name_chi": "西区NewLynn",
+      "display_name_eng": "NewLynn",
+      "phone": "09********",
+      "has_weekend_parking": false,
+      "parking_instruction_chi": "",
+      "parking_instruction_eng": "",
+      "custom_greeting_chi": "收到请您回复，确认预约，感谢！\n\n【Clinic】预约提醒 ",
+      "custom_blessing_chi": "祝安康。",
+      "practitioners": [
+        {"name": "Staff_F", "treatment_type": "acupuncture"},
+        {"name": "Staff_G1", "treatment_type": "acupuncture"},
+        {"name": "Staff_Wi", "treatment_type": "acupuncture"},
+        {"name": "Staff_D", "treatment_type": "acupuncture"},
+        {"name": "Staff_Z", "treatment_type": "acupuncture"},
+        {"name": "Staff_C", "treatment_type": "chiropractic"},
+        {"name": "Staff_L", "treatment_type": "moxa"},
+        {"name": "Staff_F(Newlynn)", "treatment_type": "acupuncture"}
+      ]
+    },
+    "greenlane": {
+      "display_name_chi": "中区Greenlane",
+      "display_name_eng": "Greenlane",
+      "phone": "09********",
+      "has_weekend_parking": false,
+      "parking_instruction_chi": "",
+      "parking_instruction_eng": "",
+      "custom_greeting_chi": "收到请您回复，确认预约，感谢！\n\n【Clinic】预约提醒 ",
+      "custom_blessing_chi": "祝安康。",
+      "practitioners": [
+        {"name": "Staff_Q", "treatment_type": "acupuncture"}
+      ]
+    },
+    "epsom": {
+      "display_name_chi": "中区Epsom",
+      "display_name_eng": "Epsom",
+      "phone": "09******",
+      "has_weekend_parking": false,
+      "parking_instruction_chi": "",
+      "parking_instruction_eng": "",
+      "custom_greeting_chi": "收到请您回复，确认预约，感谢！\n\n【Clinic】预约提醒 ",
+      "custom_blessing_chi": "祝安康。",
+      "practitioners": [
+        {"name": "Staff_X", "treatment_type": "acupuncture"},
+        {"name": "Staff_F", "treatment_type": "acupuncture"},
+        {"name": "Staff_W(Epsom)", "treatment_type": "massage"},
+        {"name": "Staff_G1(Epsom)", "treatment_type": "acupuncture"},
+        {"name": "Staff_M1", "treatment_type": "acupuncture"}
+      ]
+    }
+  }
+}
