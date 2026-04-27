@@ -167,6 +167,10 @@ clinic-sms-automation/
 └── README.md
 ```
 
+## Demo
+
+<img width="800" height="450" alt="text_auto Demo" src="https://github.com/user-attachments/assets/c0b2deef-208e-4221-869a-5168a1862635" />
+
 ---
 
 ## 👤 Author
